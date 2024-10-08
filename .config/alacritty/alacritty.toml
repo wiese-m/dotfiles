@@ -1,0 +1,7 @@
+[window]
+dynamic_title = true
+
+[window.dimensions]
+columns = 160
+lines = 48
+
