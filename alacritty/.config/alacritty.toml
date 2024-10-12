@@ -1,0 +1,7 @@
+[window]
+opacity = 0.95
+
+[window.dimensions]
+columns = 160
+lines = 40
+
