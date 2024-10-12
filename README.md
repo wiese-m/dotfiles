@@ -13,4 +13,4 @@ sudo apt install stow
 
 1. Git clone repository into home directory
 2. ```cd ~/dotfiles```
-3. Create symlinks using ```stow .```
+3. Create symlinks using ```stow <package_name>```
