@@ -1,0 +1,6 @@
+[aws]
+disabled = true
+
+[battery]
+disabled = true
+
